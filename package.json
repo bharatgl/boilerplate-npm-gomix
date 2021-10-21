@@ -1,5 +1,6 @@
 {
 	"author":"BharatGoyal",
+	"description": "A web that teaches people the ability to make the meaningful contribution to software projects",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
