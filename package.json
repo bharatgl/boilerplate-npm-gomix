@@ -1,13 +1,17 @@
 {
-	"author":"Bharat Goyal",
+	"author": "Bharat Goyal",
 	"description": "A web that teaches people the ability to make the meaningful contribution to software projects",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["useful programmer","freecodecamp","Learn to be a Programmer the freecodecamp way"],
+	"keywords": [
+		"useful programmer",
+		"freecodecamp",
+		"Learn to be a Programmer the freecodecamp way"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
-		 "moment" :"2.14.0",
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
